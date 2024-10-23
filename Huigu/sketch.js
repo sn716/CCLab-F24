@@ -12,10 +12,11 @@ let showCookie = false;
 let clickEnded = false;
 
 function setup() {
-//   createCanvas(800, 600);
+//createCanvas(800, 600);
   
 let cnv = createCanvas(800, 600);
 cnv.parent("p5-canvas-container");
+
 
 
   noStroke();
